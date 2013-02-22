@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportProfile Ver="1.1">
+  <General ConnectionName="10.0.0.38" DatabaseName="VPDP12" SchemaName="dba" ExportType="Excel" TargetCodepage="65001" AddTimeStamp="false" TimeStampFormat="" IncludeTitle="true" FieldDelimiter="	" DateFormat="MDY" DateSeparator="/" TimeSeparator=":" DecimalSeparator="." TextQualifier="" RowDelimiter="0" XMLFormat="Element" AppendRecord="false" ContinueOnError="true"/>
+  <STable STableName="tabel dg42" TTableName="" TargetFile="C:\Users\NINJA-007\Documents\New folder\dB11.xlsx" AllFields="true"/>
+</ExportProfile>
